@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tiktaktoe.github.io/static/css/main.d2e323a0.chunk.css",
+    "main.js": "/tiktaktoe.github.io/static/js/main.d69feba5.chunk.js",
+    "main.js.map": "/tiktaktoe.github.io/static/js/main.d69feba5.chunk.js.map",
+    "runtime-main.js": "/tiktaktoe.github.io/static/js/runtime-main.88f0e086.js",
+    "runtime-main.js.map": "/tiktaktoe.github.io/static/js/runtime-main.88f0e086.js.map",
+    "static/js/2.1a0425fb.chunk.js": "/tiktaktoe.github.io/static/js/2.1a0425fb.chunk.js",
+    "static/js/2.1a0425fb.chunk.js.map": "/tiktaktoe.github.io/static/js/2.1a0425fb.chunk.js.map",
+    "index.html": "/tiktaktoe.github.io/index.html",
+    "precache-manifest.389b017f54c0d2cf86d30b570801f3d2.js": "/tiktaktoe.github.io/precache-manifest.389b017f54c0d2cf86d30b570801f3d2.js",
+    "service-worker.js": "/tiktaktoe.github.io/service-worker.js",
+    "static/css/main.d2e323a0.chunk.css.map": "/tiktaktoe.github.io/static/css/main.d2e323a0.chunk.css.map",
+    "static/js/2.1a0425fb.chunk.js.LICENSE.txt": "/tiktaktoe.github.io/static/js/2.1a0425fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f0e086.js",
+    "static/js/2.1a0425fb.chunk.js",
+    "static/css/main.d2e323a0.chunk.css",
+    "static/js/main.d69feba5.chunk.js"
+  ]
+}
